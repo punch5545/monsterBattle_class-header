@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jade\source\repos\sga\20190312\monsterhunter\main.cpp(13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\jade\source\repos\sga\20190312\monsterhunter\main.cpp(56): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  MonsterHunter.vcxproj -> C:\Users\Jade\source\repos\SGA\20190312\Debug\MonsterHunter.exe
